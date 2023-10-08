@@ -7,7 +7,7 @@
 
 <br/>
 
-This repository houses an efficient automation solution designed for extracting text from a series of **scanned PDF documents** sharing identical layouts and formats. Leveraging screen scraping with **optical character recognition (OCR)** method, the UiPath RPA robot achieves nearly 98% accuracy in text recognition. It adeptly extracts relevant information from each scanned document and consolidates it into a single text file, exemplified by the **test_reports.txt** file. This RPA robot offers a rapid automation solution, significantly reducing the time-consuming manual effort required for the same task.
+This repository houses an efficient automation solution designed for extracting text from a series of **scanned PDF documents** sharing identical layouts and formats. Leveraging screen scraping with **optical character recognition (OCR)** method, the UiPath RPA robot achieves nearly 98% accuracy in text recognition. It **adeptly extracts relevant information from each scanned document and consolidates it into a single text file**, exemplified by the **test_reports.txt** file. This RPA robot offers a rapid automation solution, significantly reducing the time-consuming manual effort required for the same task.
 
 
 _You can check out the **automation demo video** below_:
